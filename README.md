@@ -1,3 +1,23 @@
+![阿迪尔探案录：首页海报](images/cover.jpg)
+
+## 人物四视图
+
+### 阿迪尔 · Adil
+
+![阿迪尔四视图](images/adil-four-views.jpg)
+
+### 马蒂厄·勒鲁 · Mathieu Leroux
+
+![马蒂厄·勒鲁四视图](images/mathieu-leroux-four-views.jpg)
+
+### 乔治·瓦莱特 · Georges Valette
+
+![乔治·瓦莱特四视图](images/georges-valette-four-views.jpg)
+
+### 埃莱娜·瓦莱特 · Hélène Valette
+
+![埃莱娜·瓦莱特四视图](images/helene-valette-four-views.jpg)
+
 # 阿迪尔探案录
 
 **历史悬疑推理小说 · 连载试写版**
